@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg939"
+   sodipodi:docname="patreon.svg"
+   width="32"
+   height="32"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata945">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs943" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="959"
+     inkscape:window-height="1047"
+     id="namedview941"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="15.409328"
+     inkscape:cy="12.362579"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg939" />
+  <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+  <path
+     d="m 27.16614,13.438096 c 0,4.443208 -3.614217,8.06181 -8.061809,8.06181 -4.460752,0 -8.088125,-3.614217 -8.088125,-8.06181 0,-4.4563626 3.627373,-8.0837383 8.088125,-8.0837383 4.447592,0 8.061809,3.6273757 8.061809,8.0837383 z M 4.7088707,26.890529 H 8.6564378 V 5.3543577 H 4.7088707 Z"
+     id="path937"
+     inkscape:connector-curvature="0"
+     style="fill:#cf5e16;fill-opacity:1;stroke-width:0.04386186" />
+</svg>
