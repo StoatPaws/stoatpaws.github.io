@@ -13,7 +13,7 @@
 
 body {
   background-color: #060918;
-  background: url("../images/texture_lines.jpg");
+  background-image: url("../images/texture_lines.jpg");
 }
 
 #socials {
